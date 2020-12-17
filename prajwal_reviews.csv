@@ -1,0 +1,150 @@
+metacritics,1,Citizen Kane,"Drama,Mystery"
+metacritics,2,The Godfather,"Drama,Thriller,Crime"
+metacritics,3,Rear Window,"Mystery,Thriller"
+metacritics,4,Casablanca,"Drama,Romance,War"
+metacritics,5,Boyhood,Drama
+metacritics,6,Three Colors: Red,"Drama,Mystery,Romance"
+metacritics,7,Vertigo,"Mystery,Thriller,Romance"
+metacritics,8,Notorious,"Drama,Thriller,Romance,Film-Noir"
+metacritics,9,Singin' in the Rain,"Comedy,Romance,Musical"
+metacritics,10,City Lights,"Drama,Comedy,Romance"
+metacritics,11,Moonlight,Drama
+metacritics,12,Intolerance,"Drama,History"
+metacritics,13,Pinocchio,"Fantasy,Comedy,Animation,Family,Musical"
+metacritics,14,Touch of Evil,"Drama,Thriller,Crime,Film-Noir"
+metacritics,15,The Treasure of the Sierra Madre,"Adventure,Drama,Western"
+metacritics,16,Pan's Labyrinth,"Drama,Mystery,Thriller,Fantasy,War"
+metacritics,17,Some Like It Hot,"Comedy,Romance"
+metacritics,18,North by Northwest,"Action,Adventure,Mystery,Thriller"
+metacritics,19,Hoop Dreams,"Drama,Sport,Documentary"
+metacritics,20,Rashomon,"Drama,Mystery,Crime"
+metacritics,21,All About Eve,Drama
+metacritics,22,Jules and Jim,"Drama,Romance"
+metacritics,23,The Wild Bunch,"Action,Adventure,Western"
+metacritics,24,My Left Foot,"Biography,Drama"
+metacritics,25,The Third Man,"Mystery,Thriller,Film-Noir"
+metacritics,26,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Drama,Thriller"
+metacritics,27,Nomadland,Drama
+metacritics,28,Gone with the Wind,"Drama,History,Romance,War"
+metacritics,29,"4 Months, 3 Weeks and 2 Days",Drama
+metacritics,30,Psycho,"Mystery,Thriller,Horror"
+metacritics,31,Battleship Potemkin,"Drama,History,Thriller,War"
+metacritics,32,A Streetcar Named Desire,Drama
+metacritics,33,American Graffiti,"Drama,Comedy"
+metacritics,34,Dumbo,"Drama,Animation,Family,Musical"
+metacritics,35,Roma,Drama
+metacritics,36,Ran,"Action,Drama,War"
+metacritics,37,The Shop Around the Corner,"Drama,Comedy,Romance"
+metacritics,38,12 Angry Men,"Drama,Crime"
+metacritics,39,Manchester by the Sea,Drama
+metacritics,40,Rosemary's Baby,"Drama,Horror"
+metacritics,41,The Maltese Falcon,"Mystery,Film-Noir"
+metacritics,42,12 Years a Slave,"Biography,Drama,History"
+metacritics,43,Killer of Sheep,Drama
+metacritics,44,Rocks,Drama
+metacritics,45,Nashville,"Drama,Comedy,Music"
+metacritics,46,Ratatouille,"Fantasy,Comedy,Animation,Family"
+metacritics,47,Parasite,"Drama,Thriller,Comedy"
+metacritics,48,Don't Look Now,"Drama,Thriller,Horror"
+metacritics,49,The Grapes of Wrath,"Drama,History"
+metacritics,50,Children of Paradise (1945),"Drama,Romance"
+imdb,1,The Shawshank Redemption,Drama
+imdb,2,The Godfather,"Crime,Drama"
+imdb,3,The Godfather: Part II,"Crime,Drama"
+imdb,4,The Dark Knight,"Action,Crime,Drama"
+imdb,5,12 Angry Men,"Crime,Drama"
+imdb,6,Schindler's List,"Biography,Drama,History"
+imdb,7,The Lord of the Rings: The Return of the King,"Action,Adventure,Drama"
+imdb,8,Pulp Fiction,"Crime,Drama"
+imdb,9,"Il buono, il brutto, il cattivo",Western
+imdb,10,The Lord of the Rings: The Fellowship of the Ring,"Action,Adventure,Drama"
+imdb,11,Fight Club,Drama
+imdb,12,Forrest Gump,"Drama,Romance"
+imdb,13,Inception,"Action,Adventure,Sci-Fi"
+imdb,14,The Lord of the Rings: The Two Towers,"Action,Adventure,Drama"
+imdb,15,Star Wars: Episode V - The Empire Strikes Back,"Action,Adventure,Fantasy"
+imdb,16,The Matrix,"Action,Sci-Fi"
+imdb,17,Goodfellas,"Biography,Crime,Drama"
+imdb,18,One Flew Over the Cuckoo's Nest,Drama
+imdb,19,Shichinin no samurai,"Action,Adventure,Drama"
+imdb,20,Se7en,"Crime,Drama,Mystery"
+imdb,21,La vita è bella,"Comedy,Drama,Romance"
+imdb,22,Cidade de Deus,"Crime,Drama"
+imdb,23,The Silence of the Lambs,"Crime,Drama,Thriller"
+imdb,24,It's a Wonderful Life,"Drama,Family,Fantasy"
+imdb,25,Star Wars,"Action,Adventure,Fantasy"
+imdb,26,Saving Private Ryan,"Drama,War"
+imdb,27,Sen to Chihiro no kamikakushi,"Animation,Adventure,Family"
+imdb,28,The Green Mile,"Crime,Drama,Fantasy"
+imdb,29,Interstellar,"Adventure,Drama,Sci-Fi"
+imdb,30,Gisaengchung,"Comedy,Drama,Thriller"
+imdb,31,Léon,"Action,Crime,Drama"
+imdb,32,The Usual Suspects,"Crime,Mystery,Thriller"
+imdb,33,Seppuku,"Action,Drama,Mystery"
+imdb,34,The Lion King,"Animation,Adventure,Drama"
+imdb,35,The Pianist,"Biography,Drama,Music"
+imdb,36,Back to the Future,"Adventure,Comedy,Sci-Fi"
+imdb,37,Terminator 2: Judgment Day,"Action,Sci-Fi"
+imdb,38,American History X,Drama
+imdb,39,Modern Times,"Comedy,Drama,Family"
+imdb,40,Psycho,"Horror,Mystery,Thriller"
+imdb,41,Gladiator,"Action,Adventure,Drama"
+imdb,42,City Lights,"Comedy,Drama,Romance"
+imdb,43,The Departed,"Crime,Drama,Thriller"
+imdb,44,The Intouchables,"Biography,Comedy,Drama"
+imdb,45,Whiplash,"Drama,Music"
+imdb,46,The Prestige,"Drama,Mystery,Sci-Fi"
+imdb,47,Hotaru no haka,"Animation,Drama,War"
+imdb,48,Once Upon a Time in the West,Western
+imdb,49,Hamilton,"Biography,Drama,History"
+imdb,50,Casablanca,"Drama,Romance,War"
+rotten-tomatoes,1,Black Panther,"Fantasy,Action,Adventure"
+rotten-tomatoes,2,Avengers: Endgame,"Fantasy,Adventure,Sci fi,Action"
+rotten-tomatoes,3,Us,"Horror,Mystery and thriller"
+rotten-tomatoes,4,Toy Story 4,"Fantasy,Kids and family,Animation,Adventure,Comedy"
+rotten-tomatoes,5,Lady Bird,"Drama,Comedy"
+rotten-tomatoes,6,Citizen Kane,Drama
+rotten-tomatoes,7,Mission: Impossible - Fallout,"Adventure,Mystery and thriller,Action"
+rotten-tomatoes,8,The Wizard of Oz,"Musical,Kids and family,Fantasy"
+rotten-tomatoes,9,BlacKkKlansman,"Drama,Comedy,Crime"
+rotten-tomatoes,10,Get Out,"Horror,Mystery and thriller,Comedy"
+rotten-tomatoes,11,The Irishman,"Drama,Crime"
+rotten-tomatoes,12,Mad Max: Fury Road,"Adventure,Action"
+rotten-tomatoes,13,Spider-Man: Into the Spider-Verse,"Fantasy,Comedy,Kids and family,Animation,Adventure,Action"
+rotten-tomatoes,14,Casablanca,Drama
+rotten-tomatoes,15,Moonlight,Drama
+rotten-tomatoes,16,A Star Is Born,"Drama,Music,Romance"
+rotten-tomatoes,17,Wonder Woman,"Adventure,Action,Fantasy"
+rotten-tomatoes,18,Dunkirk,"Drama,War,History"
+rotten-tomatoes,19,Inside Out,"Comedy,Fantasy,Kids and family,Animation"
+rotten-tomatoes,20,The Farewell,"Drama,Comedy"
+rotten-tomatoes,21,A Quiet Place,"Horror,Mystery and thriller"
+rotten-tomatoes,22,Modern Times,Comedy
+rotten-tomatoes,23,Eighth Grade,"Drama,Comedy"
+rotten-tomatoes,24,It Happened One Night,Romance
+rotten-tomatoes,25,Booksmart,Comedy
+rotten-tomatoes,26,A Night at the Opera,Comedy
+rotten-tomatoes,27,Roma,Drama
+rotten-tomatoes,28,The Third Man,Mystery and thriller
+rotten-tomatoes,29,Coco,"Music,Kids and family,Animation,Adventure,Comedy"
+rotten-tomatoes,30,Thor: Ragnarok,"Fantasy,Comedy,Sci fi,Adventure,Action"
+rotten-tomatoes,31,The Shape of Water,"Fantasy,Romance"
+rotten-tomatoes,32,Spotlight,Drama
+rotten-tomatoes,33,Selma,"Drama,History"
+rotten-tomatoes,34,The Godfather,"Drama,Crime"
+rotten-tomatoes,35,La Grande illusion (Grand Illusion),"Drama,War"
+rotten-tomatoes,36,Arrival,"Drama,Sci fi,Mystery and thriller"
+rotten-tomatoes,37,Singin' in the Rain,"Comedy,Musical"
+rotten-tomatoes,38,Snow White and the Seven Dwarfs,"Fantasy,Animation,Kids and family"
+rotten-tomatoes,39,Logan,"Fantasy,Adventure,Action"
+rotten-tomatoes,40,The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari),Horror
+rotten-tomatoes,41,Double Indemnity,"Drama,Crime"
+rotten-tomatoes,42,The Favourite,"Drama,Comedy"
+rotten-tomatoes,43,The Big Sick,Romance
+rotten-tomatoes,44,Spider-Man: Far From Home,"Fantasy,Adventure,Action,Comedy"
+rotten-tomatoes,45,E.T. The Extra-Terrestrial,"Adventure,Sci fi,Kids and family"
+rotten-tomatoes,46,Star Wars: The Last Jedi,"Fantasy,Adventure,Sci fi,Action"
+rotten-tomatoes,47,All About Eve,Drama
+rotten-tomatoes,48,Shadow of a Doubt,"Drama,Mystery and thriller,Crime"
+rotten-tomatoes,49,The Kid,"Drama,Comedy"
+rotten-tomatoes,50,Paddington 2,"Adventure,Kids and family,Comedy"
